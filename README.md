@@ -17,4 +17,3 @@ The low MAE indicates that, on average, the model's predictions are within 5.14 
 
 These performance metrics suggest the SVM regression model is well-suited for this task and could be a useful tool for stakeholders in the electric vehicle market. The model appears to be capturing the key relationships between the input features and the expected price, allowing for reasonably accurate predictions.
 
-Colab paid products - Cancel contracts here
